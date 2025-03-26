@@ -26,5 +26,6 @@
         <label>Дата и время: <input type="datetime-local" name="datetime" required></label><br>
         <input type="submit" value="Записаться">
     </form>
+    <p><a href="appointments.php">Просмотреть все записи</a></p>
 </body>
 </html>
